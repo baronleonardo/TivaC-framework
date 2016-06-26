@@ -1,7 +1,10 @@
-.cproject
-.project
 Release/*
-tm4c123gh6pm.ld
-tm4c123gh6pm_startup_gcc.c
+Debug/*
 .settings/*
+.launches/*
+targetConfigs/*
+.*project
+*.ld*
+tm4c123gh6pm_startup_gcc.c
+tm4c123gh6pm_startup_ccs_gcc.c
 main.c
