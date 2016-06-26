@@ -1,0 +1,7 @@
+.cproject
+.project
+Release/*
+tm4c123gh6pm.ld
+tm4c123gh6pm_startup_gcc.c
+.settings/*
+main.c
